@@ -360,7 +360,8 @@ footer p{
         font-size: 2.4rem;
     }
     .section1 img{
-        width: 150px;
+        margin-top: 70px;
+        height: 105px;
     }
     .section2 h1{
         letter-spacing: 1px;
@@ -372,9 +373,13 @@ footer p{
         font-size: 1rem;
         line-height: 3px;
     }
+    .section2{
+        top: 40%;
+        left: 94%;
+    }
     .btn{
-        width: 105px;
-        height: 29px;
+        width: 90px;
+        height: 25px;
     }
     .aboutbox h1{
         font-weight: 600;
